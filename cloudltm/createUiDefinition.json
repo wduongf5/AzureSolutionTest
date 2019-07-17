@@ -2480,7 +2480,7 @@
                         "toolTip": "Your Azure service principal application secret.",
                         "constraints": {
                             "required": true,
-                            "regex": "^*?$",
+                            "regex": "",
                             "validationMessage": "Please provide a valid secret key for your service prinicipal application."
                         }
                     },
